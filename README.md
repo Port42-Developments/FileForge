@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![FileForge Logo](images/FileForgeLogo.png)
+
 **A powerful and fully customizable file renaming application with a modern, user-friendly interface**
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -274,7 +276,9 @@ For issues, questions, or feedback, please contact the developer or visit the pr
 
 <div align="center">
 
-**Made with ❤️ by Port42 Developments**
+**Made with ❤️ by [Port42 Developments](https://github.com/Port42-Developments)**
+
+[![Port42 Developments](images/logo_black.png)](https://github.com/Port42-Developments)
 
 *Simplifying file management, one rename at a time* 🚀
 
