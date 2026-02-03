@@ -278,7 +278,7 @@ For issues, questions, or feedback, please contact the developer or visit the pr
 
 **Made with ❤️ by [Port42 Developments](https://github.com/Port42-Developments)**
 
-[![Port42 Developments](images/logo_black.png)](https://github.com/Port42-Developments)
+[![Port42 Developments](images/logo_white.png)](https://github.com/Port42-Developments)
 
 *Simplifying file management, one rename at a time* 🚀
 
